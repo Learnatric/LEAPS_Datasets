@@ -10,7 +10,6 @@ LEAPS Dataset
 
 * [General Information](#general-information)
 * [Purpose and Hypothesis](#purpose-and-hypothesis)
-  * [Overview of What Follows](##overview-of-what-follows:)
 * [Data Collection](#data-collection)
 
 
@@ -28,12 +27,6 @@ My theoretical clients are the political leaders of Punjab and the host of capab
 I aim to solve the problem of what factors predict academic success in order to foster those factors, thereby maximizing student success in Punjab students. Academic success comprises the median of all grades in each subject (math, Urdu, English) from 2003 and 2004.
 
 Although having the target variable for each year as an aggregate function (median) over three columns, each is a good predictor of student success. In fact, research psychologists studying intelligence have found strong evidence for the unromantic, non-egalitarian notion that intelligence cannot be broken up into demonstrably different parts. Those who are intelligent in one area, say shapes, tend to be intelligent in other areas that constitute [IQ and the g factor](https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/). As we see in the EDA section, the teacher’s belief in the student’s intelligence is significantly, positively correlated with high grades, perhaps reminding my audience of [the power of teacher expectations](https://www.educationnext.org/power-of-teacher-expectations-racial-bias-hinders-student-attainment/). Test-taking itself is a skill, of course, which I assume affects the student’s grade evenly across the three subjects. I hypothesize, then, that students who perform well in one subject, such as Urdu (the local language), will do better in the other two aspects.
-
-### Overview of What Follows:
-1. Data Collection
-2. Form a DataFrame of variables with predictive power for each year: df2003, df2004, df2005.
-3. Perform EDA in order to test which variables have the most predictive power, modifying the DataFrames should it be appropriate. 
-4. Form a model using parts of what I learn from the ML portion of the curriculum and discussion with my mentor.
 
 ## Data Collection
 As of mid-2020, the website from which one can download the LEAPS datasets as CSV files is down, yet some of the summarized features are available on the WorldBank website (worldbank.org): 
