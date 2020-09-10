@@ -29,3 +29,9 @@ https://docs.google.com/document/d/1n384SW7NEobIuTC0Ksa9_CiBGLLgfe38joBsn8z6Ms8/
 ```def foo:
      if bar:
          True```
+
+`<code>'
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
