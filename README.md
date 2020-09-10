@@ -38,7 +38,7 @@ I aim to solve the problem of what factors predict academic success in order to 
 
 Although having the target variable for each year as an aggregate function (median) over three columns, each is a good predictor of student success. In fact, research psychologists studying intelligence have found strong evidence for the unromantic, non-egalitarian notion that intelligence cannot be broken up into demonstrably different parts. Those who are intelligent in one area, say shapes, tend to be intelligent in other areas that constitute IQ and the g factor.* As we see in the EDA section, the teacher’s belief in the student’s intelligence is significantly, positively correlated with high grades, perhaps reminding my audience of the power of teacher expectations.** Test-taking itself is a skill, of course, which I assume affects the student’s grade evenly across the three subjects. I hypothesize, then, that students who perform well in one subject, such as Urdu (the local language), will do better in the other two aspects.
 
-* https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/. [Neuroscience_and_Intelligence]
+* https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/. [Neuroscience_and_Intelligence] (https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/)
 * https://www.educationnext.org/power-of-teacher-expectations-racial-bias-hinders-student-attainment/. [Teacher_Bias]
 
 ### Overview of What Follows:
