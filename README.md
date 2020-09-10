@@ -42,7 +42,8 @@ Although having the target variable for each year as an aggregate function (medi
 * https://www.educationnext.org/power-of-teacher-expectations-racial-bias-hinders-student-attainment/. [Teacher_Bias]
 
 [link to Google!](http://google.com)
-[intelligence](* https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/)
+
+[intelligence](https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/)
 
 ### Overview of What Follows:
 1. Data Collection
