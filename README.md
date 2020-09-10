@@ -41,6 +41,9 @@ Although having the target variable for each year as an aggregate function (medi
 * https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/. [Neuroscience_and_Intelligence] (https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/)
 * https://www.educationnext.org/power-of-teacher-expectations-racial-bias-hinders-student-attainment/. [Teacher_Bias]
 
+[link to Google!](http://google.com)
+[intelligence](* https://quillette.com/2017/12/24/neuroscience-intelligence-interview-richard-haier/)
+
 ### Overview of What Follows:
 1. Data Collection
 2. Form a DataFrame of variables with predictive power for each year: df2003, df2004, df2005.
