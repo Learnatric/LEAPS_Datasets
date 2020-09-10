@@ -1,4 +1,4 @@
-# Capstone-1
+# LEAPS Dataset
 Springboard Data Science Career Track, First Capstone Project
 LEAPS Dataset
 Links to presentation slides, etc.:
