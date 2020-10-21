@@ -3,13 +3,13 @@ Springboard Data Science Career Track, First Capstone Project
 
 ## Files
 1. LEAPS_Code
-  * This notebook file is too large to load, so it has been divided in half as LEAPS_Code_first_half and LEAPS_Code_second_half.
+   * This notebook file is too large to load, so it has been divided in half as LEAPS_Code_first_half and LEAPS_Code_second_half.
 2. LEAPS_Code_first_half
-  * From the initial importation of modules to just before machine learning models.
+   * From the initial importation of modules to just before machine learning models.
 3. LEAPS_Code_second_half
-  * Machine learning models.
+   * Machine learning models.
 4. The Impoverished and School.pdf
-  * Presentation slides.
+   * Presentation slides.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
