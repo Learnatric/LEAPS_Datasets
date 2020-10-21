@@ -1,11 +1,15 @@
 # LEAPS Datasets for 2003 and 2004: The Impoverished and School
-Springboard Data Science Career Track, First Capstone Project  
-LEAPS_Code was too large to load, so it has been divided in half as LEAPS_Code_first_half and LEAPS_Code_second_half
+Springboard Data Science Career Track, First Capstone Project
 
-LEAPS Dataset  
-[Google Document Directory with Links](https://docs.google.com/document/d/1n384SW7NEobIuTC0Ksa9_CiBGLLgfe38joBsn8z6Ms8/edit?usp=sharing).
-
-
+## Files
+1. LEAPS_Code
+  * This notebook file is too large to load, so it has been divided in half as LEAPS_Code_first_half and LEAPS_Code_second_half.
+2. LEAPS_Code_first_half
+  * From the initial importation of modules to just before machine learning models.
+3. LEAPS_Code_second_half
+  * Machine learning models.
+4. The Impoverished and School.pdf
+  * Presentation slides.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
