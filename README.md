@@ -9,7 +9,7 @@ Springboard Data Science Career Track: First Capstone Project
 3. LEAPS_Code_second_half
    * Machine learning models.
 4. The Impoverished and School.pdf
-   * Presentation slides.
+   * Presentation slides. [Here is the Google slide deck.](https://docs.google.com/presentation/d/1xUkzez4nsZUB2NzKK6rRGCAEOu2IarGoqKp_MUxVzhk/edit?usp=sharing)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
