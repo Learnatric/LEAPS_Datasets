@@ -29,6 +29,8 @@ I use the Learning and Education Achievements in Punjab Schools (LEAPS) datasets
 
 My theoretical clients are the political leaders of Punjab and the host of capable researchers and aids helping them. If my work were to inform them of relevant factors, they could save resources by allotting them properly instead of investing in fruitless options.
 
+For the detailed report I submitted to Springboard, [see this Google Document with the appropriate links.](https://docs.google.com/document/d/1n384SW7NEobIuTC0Ksa9_CiBGLLgfe38joBsn8z6Ms8/edit?usp=sharing)
+
 ## Purpose and Hypothesis
 I aim to solve the problem of what factors predict academic success in order to foster those factors, thereby maximizing student success in Punjab students. Academic success comprises the median of all grades in each subject (math, Urdu, English) from 2003 and 2004.
 
