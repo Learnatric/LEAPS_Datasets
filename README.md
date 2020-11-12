@@ -1,5 +1,6 @@
 # LEAPS Datasets for 2003 and 2004: The Impoverished and School
-Springboard Data Science Career Track: First Capstone Project
+Springboard Data Science Career Track: First Capstone Project <br>
+Here is the [document I submitted to Springboard] (https://docs.google.com/document/d/1n384SW7NEobIuTC0Ksa9_CiBGLLgfe38joBsn8z6Ms8/edit?usp=sharing).
 
 ## Files
 1. LEAPS_Code
