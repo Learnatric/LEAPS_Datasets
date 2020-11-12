@@ -9,7 +9,7 @@ Here is the [document I submitted to Springboard](https://docs.google.com/docume
    * From the initial importation of modules to just before machine learning models.
 3. LEAPS_Code_second_half
    * Machine learning models.
-4. The Impoverished and School.pdf
+4. The Impoverished and School Slides.pdf
    * Presentation slides. [Here is the Google slide deck.](https://docs.google.com/presentation/d/1xUkzez4nsZUB2NzKK6rRGCAEOu2IarGoqKp_MUxVzhk/edit?usp=sharing)
 
 <!-- TABLE OF CONTENTS -->
